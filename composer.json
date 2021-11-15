@@ -1,0 +1,14 @@
+{
+    "name": "zyto/hexlet-php",
+    "description": "Learning hexlet project with Composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zyto",
+            "email": "zytov@yandex.ru"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
